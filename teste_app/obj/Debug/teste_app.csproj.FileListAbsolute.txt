@@ -1,0 +1,6 @@
+C:\Arya\COPASA\teste_app\teste_app\bin\teste_app.dll.config
+C:\Arya\COPASA\teste_app\teste_app\bin\teste_app.dll
+C:\Arya\COPASA\teste_app\teste_app\bin\teste_app.pdb
+C:\Arya\COPASA\teste_app\teste_app\obj\Debug\teste_app.csprojResolveAssemblyReference.cache
+C:\Arya\COPASA\teste_app\teste_app\obj\Debug\teste_app.dll
+C:\Arya\COPASA\teste_app\teste_app\obj\Debug\teste_app.pdb
